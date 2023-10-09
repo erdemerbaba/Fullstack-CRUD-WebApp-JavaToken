@@ -1,0 +1,5 @@
+com/ecommerce/userservice/controller/UserController.class
+com/ecommerce/userservice/MainApplication.class
+com/ecommerce/userservice/repository/UserRepository.class
+com/ecommerce/userservice/document/User.class
+com/ecommerce/userservice/exception/ResourceNotFoundException.class
