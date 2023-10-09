@@ -76,5 +76,6 @@ Use http://localhost:3000/
 Use http://localhost:3000/users
 
 
-### Deployment
-Step 1: Will come soon
+# Deployment
+npm install -g serve
+serve -s build
