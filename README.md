@@ -82,3 +82,44 @@ Use http://localhost:3000/users
 # Deployment
 npm install -g serve
 serve -s build
+
+## Error Handling
+export NODE_OPTIONS=--openssl-legacy-provider
+lsof -i tcp:8080
+taskkill /F /PID
+
+#############################################
+
+# Aktek Product Spesifications
+
+## Included Technologies
+-Spring Boot (Backend Framework)
+-Maven (comprehension tool)
+-Node.js (JS Runtime Environment)
+-React (JS Library)
+-Bootstrap (Frontend Framework)
+-MongoDB (NoSQL Database)
+-Git (Version Control System)
+
+## Used Principle, Pattern and Techniques
+-Microservice Structure
+-Singleton Creational Pattern
+-Clean Code
+-DRY Principle
+-Object Oriented Programming 
+-Functional Programming
+-SSL Security
+
+## Language & Formats
+-Java
+-Javascript
+-HTML
+-CSS
+-Bash
+-Json
+-xml
+
+## Abilities
+-Fullstack Web Application
+-CRUD Operations
+-SOLID Principle
