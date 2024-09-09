@@ -1,5 +1,6 @@
 # e-commerce-web-app
 
+<img width="963" alt="image" src="https://github.com/user-attachments/assets/a21bc02d-f3f7-4094-a319-e325caec67b5">
 
 # About
 E commerce web application project created to training purposes. User can do operations to other users. These operations: Observe, add, edit and delete
