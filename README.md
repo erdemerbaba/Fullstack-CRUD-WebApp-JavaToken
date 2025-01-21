@@ -90,7 +90,7 @@ taskkill /F /PID
 
 #############################################
 
-# Aktek Product Spesifications
+#  Product Spesifications
 
 ## Included Technologies
 -Spring Boot (Backend Framework)
